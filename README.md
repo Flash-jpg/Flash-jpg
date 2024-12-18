@@ -45,9 +45,6 @@ You can click the Preview link to take a look at your changes.
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Flash-jpg&show_icons=true&locale=en&layout=compact" alt="Flash-jpg" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Flash-jpg" alt="Flash-jpg" /></a></p>
 
-
-name: GitHub Snake Game
-
 on:
   # Schedule the workflow to run daily at midnight UTC
   schedule:
